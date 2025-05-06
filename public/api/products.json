@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "tittle": "TV Smart 42\"",
+    "real_price": 450000,
+    "final_price": 360000,
+    "discount": 20,
+    "img": "http://http2.mlstatic.com/D_NQ_NP_2X_960268-MLA83865779056_042025-F.webp",
+    "description": "Televisor inteligente de 42 pulgadas con resolución Full HD y acceso a apps de streaming."
+    },
+    {
+    "id": 2,
+    "tittle": "Auriculares Xiaomi",
+    "real_price": 45000,
+    "final_price": 40500,
+    "discount": 10,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_833941-MLU78764933573_082024-F.webp",
+    "description": "Auriculares inalámbricos Xiaomi con gran autonomía y sonido envolvente."
+    },
+    {
+    "id": 3,
+    "tittle": "PC Gamer",
+    "real_price": 1191600,
+    "final_price": 774540,
+    "discount": 35,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_649332-MLA76740809050_062024-F.webp",
+    "description": "Computadora gamer de alto rendimiento, ideal para juegos exigentes y streaming."
+    },
+    {
+    "id": 4,
+    "tittle": "Teclado Mecanico RGB",
+    "real_price": 100000,
+    "final_price": 85000,
+    "discount": 15,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_2X_864807-MLA77594879101_072024-F.webp",
+    "description": "Teclado mecánico con retroiluminación RGB, switches de alta calidad y diseño ergonómico."
+    }
+]
