@@ -38,9 +38,6 @@ const ProductDetail = () => {
         <div className="product-detail-card">
           <img src={product.img} alt={product.tittle} />
           <h3>{product.tittle}</h3>
-          <span className="short-description">
-            {product.short_description}
-          </span>{" "}
           <span className="description">{product.description}</span>
           <div className="price-container">
             <span className="real-price">${product.real_price}</span>
